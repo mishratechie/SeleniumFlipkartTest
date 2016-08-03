@@ -15,7 +15,7 @@ public class FlipkartAllMobile {
 		
 		
 		 WebDriver driver;
-		String baseUrl;
+		 String baseUrl;
 		  
 		   driver = new FirefoxDriver();
 		   baseUrl = "http://www.flipkart.com/";
